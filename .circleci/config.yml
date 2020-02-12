@@ -17,6 +17,7 @@ jobs:
     steps:
       - checkout
       - <<: *step_install_nvm
+      - run: npm install -g yarn;
       - run: yarn
       - run: npm test
 workflows:
