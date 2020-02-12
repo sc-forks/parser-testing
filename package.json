@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "dependencies": {
+    "shelljs": "^0.8.3",
+    "solidity-parser-diligence": "^0.4.16"
+  }
+}
