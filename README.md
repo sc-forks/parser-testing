@@ -1,6 +1,7 @@
 # parser-testing
-Runs solidity-parser-antlr (diligence) over real-world targets
+Runs [@solidity-parser/parser][1] over real-world targets
 
+[1]: https://github.com/solidity-parser/parser
 
 ## Targets
 

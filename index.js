@@ -1,5 +1,5 @@
 const shell = require('shelljs');
-const parser = require('solidity-parser-diligence');
+const parser = require('@solidity-parser/parser');
 const fs = require('fs');
 const path = require('path');
 const log = console.log;
@@ -8,7 +8,7 @@ const targets = [
  {
    repo: "https://github.com/OpenZeppelin/openzeppelin-contracts.git",
    folder: "openzeppelin-contracts",
-   branch: "dev-v3.0",
+   branch: "master",
    contracts: "contracts"
  },
  {

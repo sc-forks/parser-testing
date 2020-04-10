@@ -3,7 +3,7 @@
     "test": "node ./index.js"
   },
   "dependencies": {
-    "shelljs": "^0.8.3",
-    "solidity-parser-diligence": "^0.4.16"
+    "@solidity-parser/parser": "^0.5.2",
+    "shelljs": "^0.8.3"
   }
 }
