@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@solidity-parser/parser@^0.6.0":
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/@solidity-parser/parser/-/parser-0.6.0.tgz#deb964a4dbb8c21a342ee35b4acefb505fd04ea1"
+  integrity sha512-RiJXfS22frulogcfQCFhbKrd5ATu6P4tYUv/daChiIh6VHyKQ1kkVZVfX6aP7c2YGU/Bf9RwGNKdwLjfpaoqYQ==
+
 balanced-match@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-1.0.0.tgz#89b4d199ab2bee49de164ea02b89ce462d71b767"
@@ -101,11 +106,6 @@ shelljs@^0.8.3:
     glob "^7.0.0"
     interpret "^1.0.0"
     rechoir "^0.6.2"
-
-solidity-parser-diligence@^0.4.16:
-  version "0.4.16"
-  resolved "https://registry.yarnpkg.com/solidity-parser-diligence/-/solidity-parser-diligence-0.4.16.tgz#65be8a3d13b511f391fbcb2c84acb1c47e405f88"
-  integrity sha512-9Ko87r5Q3d3YBYQ6IIgLzOoRX90evELaj0IAff2uXPVazu4qjc0UcbQwSGBc+WFerOALlKhAk27BlqfKjMCPPw==
 
 wrappy@1:
   version "1.0.2"
