@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@solidity-parser/parser@^0.6.0":
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/@solidity-parser/parser/-/parser-0.6.0.tgz#deb964a4dbb8c21a342ee35b4acefb505fd04ea1"
-  integrity sha512-RiJXfS22frulogcfQCFhbKrd5ATu6P4tYUv/daChiIh6VHyKQ1kkVZVfX6aP7c2YGU/Bf9RwGNKdwLjfpaoqYQ==
+"@solidity-parser/parser@^0.13.0-rc.2":
+  version "0.13.0-rc.2"
+  resolved "https://registry.yarnpkg.com/@solidity-parser/parser/-/parser-0.13.0-rc.2.tgz#ec843438fa8652cef004895eec14066973d13c3c"
+  integrity sha512-CWZj2y6sADsQsvN/mKGqxB9hrodUW7GN6teVI5hPI8h5Oze/FLpvGYLpcFgL4NZM+ae2fPtNzwX/QuBo2jI0fw==
 
 balanced-match@^1.0.0:
   version "1.0.0"
