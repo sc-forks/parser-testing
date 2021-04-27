@@ -6,10 +6,10 @@ Runs [@solidity-parser/parser][1] over real-world targets
 ## Targets
 
 ```javascript
-{
+ {
    repo: "https://github.com/OpenZeppelin/openzeppelin-contracts.git",
    folder: "openzeppelin-contracts",
-   branch: "dev-v3.0",
+   branch: "master",
    contracts: "contracts"
  },
  {
